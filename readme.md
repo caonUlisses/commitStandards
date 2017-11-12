@@ -25,6 +25,8 @@ In this particular case, we have two messages and separate then by using a pipe 
 The folowing emojis are welcome:
 
 :hammer: - For refactoring
+
 :pill: - For bug fixes
+
 :neckbeard: - For license related stuff 
 
