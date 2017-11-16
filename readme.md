@@ -1,4 +1,27 @@
-# Git commit message standards
+# General Standards
+
+## Coding standard
+
+I think that the best way to explain something is to show it (when phisically possible), so:
+
+```javascript
+    const banana                      = require('banana')
+    const {foo}                       = require('foo')
+    const veryLongNameUsingCammelCase = require('longName')
+
+    let bananer = (name) => {
+        console.log(`${name} turned into a banana`)
+    }
+
+    module.exports = {
+        bananer
+    }
+```
+
+This is a good example for NodeJS (take note on the lack of semicolons, the vertical alignment and es6 usage).
+None of this crap is mandatory, but it would make me happy to see contributions written this way.
+
+## Git commit message standards
 
 Here are some guidelines for contributors (myself included)
 ---
