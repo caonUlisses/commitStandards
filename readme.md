@@ -18,7 +18,7 @@ I think that the best way to explain something is to show it (when phisically po
     }
 ```
 
-This is a good example for NodeJS (take note on the lack of semicolons, the vertical alignment and es6 usage).
+This is a good example for NodeJS (take note on the lack of semicolons and es6 usage).
 None of this crap is mandatory, but it would make me happy to see contributions written this way.
 
 ## Git commit message standards
