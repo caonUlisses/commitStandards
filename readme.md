@@ -5,8 +5,8 @@
 I think that the best way to explain something is to show it (when phisically possible), so:
 
 ```javascript
-    const banana                      = require('banana')
-    const {foo}                       = require('foo')
+    const banana = require('banana')
+    const {foo} = require('foo')
     const veryLongNameUsingCammelCase = require('longName')
 
     let bananer = (name) => {
